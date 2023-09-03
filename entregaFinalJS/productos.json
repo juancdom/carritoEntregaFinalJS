@@ -1,0 +1,206 @@
+[
+
+   
+    {
+        "id": "camperon",
+        "titulo": "camperon",
+        "imagen": "./imagenes/camperon.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 80000
+    },
+
+    {
+        "id": "campera",
+        "titulo": "campera",
+        "imagen": "./imagenes/campera.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 60000
+    },
+
+    {
+        "id": "buzo",
+        "titulo": "buzo",
+        "imagen": "./imagenes/buzo.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 60000
+    },
+
+    {
+        "id": "buzo-negro",
+        "titulo": "buzo-negro",
+        "imagen": "./imagenes/buzonegro.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 60000
+    },
+
+    {
+        "id": "termica",
+        "titulo": "termica",
+        "imagen": "./imagenes/termica.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 50000
+    },
+   
+
+    {
+        "id": "camistea titular",
+        "titulo": "camiseta titular",
+        "imagen": "./imagenes/camititular.jpg",
+        "categoria": {
+            "nombre": "camisetas",
+            "id": "camisetas"
+        },
+        "precio": 40000
+    },
+
+    {
+        "id": "camistea suplente",
+        "titulo": "camiseta suplente",
+        "imagen": "./imagenes/camisup.jpg",
+        "categoria": {
+            "nombre": "camisetas",
+            "id": "camisetas"
+        },
+        "precio": 40000
+    },
+
+    {
+        "id": "camistea dibu",
+        "titulo": "camiseta dibu",
+        "imagen": "./imagenes/camidibu.jpg",
+        "categoria": {
+            "nombre": "camisetas",
+            "id": "camisetas"
+        },
+        "precio": 40000
+    },
+    
+    {
+        "id": "camistea dibu suplente",
+        "titulo": "camistea dibu suplente",
+        "imagen": "./imagenes/suplentedibu.jpg",
+        "categoria": {
+            "nombre": "camisetas",
+            "id": "camisetas"
+        },
+        "precio": 40000
+    },
+    {
+        "id": "camistea 3 estrellas",
+        "titulo": "camiseta 3estrellas",
+        "imagen": "./imagenes/3estrellascami.jpg",
+        "categoria": {
+            "nombre": "camisetas",
+            "id": "camisetas"
+        },
+        "precio": 35000
+    },
+
+    {
+        "id": "musculosa",
+        "titulo": "musculosa",
+        "imagen": "./imagenes/musculosa.jpg",
+        "categoria": {
+            "nombre": "camisetas",
+            "id": "camisetas"
+        },
+        "precio": 20000
+    },
+
+    {
+        "id": "musculosa negra",
+        "titulo": "musculosa negra",
+        "imagen": "./imagenes/musculosanegra.jpg",
+        "categoria": {
+            "nombre": "camisetas",
+            "id": "camisetas"
+        },
+        "precio": 20000
+    },
+
+    {
+        "id": "pechera",
+        "titulo": "pechera",
+        "imagen": "./imagenes/pechera.jpg",
+        "categoria": {
+            "nombre": "camisetas",
+            "id": "camisetas"
+        },
+        "precio": 20000
+    },
+
+    
+    {
+        "id": "cuadro",
+        "titulo": "cuadro",
+        "imagen": "./imagenes/cuadro.jpg",
+        "categoria": {
+            "nombre": "pantalones",
+            "id": "pantalones"
+        },
+        "precio": 15000
+    },
+
+    {
+        "id": "mate",
+        "titulo": "mate",
+        "imagen": "./imagenes/mate.jpg",
+        "categoria": {
+            "nombre": "pantalones",
+            "id": "pantalones"
+        },
+        "precio": 14000
+    },
+
+    {
+        "id": "pelota final",
+        "titulo": "pelota final",
+        "imagen": "./imagenes/pelotafinal.jpg",
+        "categoria": {
+            "nombre": "pantalones",
+            "id": "pantalones"
+        },
+        "precio": 12000
+    },
+
+    {
+        "id": "pelota",
+        "titulo": "pelota",
+        "imagen": "./imagenes/pelota.jpg",
+        "categoria": {
+            "nombre": "pantalones",
+            "id": "pantalones"
+        },
+        "precio": 10000
+    },
+
+    {
+        "id": "llavero",
+        "titulo": "llavero",
+        "imagen": "./imagenes/llavero.jpg",
+        "categoria": {
+            "nombre": "pantalones",
+            "id": "pantalones"
+        },
+        "precio": 5000
+    }
+
+
+
+
+]
